@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=x\ y\ speed\ dir
+comment0.target=Bullet(int,\ int,\ double,\ double)
+comment1.params=g
+comment1.target=void\ draw(java.awt.Graphics2D)
+numComments=2
